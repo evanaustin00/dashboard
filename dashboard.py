@@ -3,7 +3,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-# Konfigurasi halaman
+# Konfigurasi halamans
 st.set_page_config(
     page_title="Analisis Data Penyewaan Sepeda",
     page_icon=":bike:",
